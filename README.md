@@ -89,8 +89,6 @@ Add assignment solutions
 The repository can be used to practice:
 
 * Programming Fundamentals
-* Object-Oriented Programming
-* Data Structures & Algorithms
 * Problem Solving
 * Git & GitHub
 * Python for AI/ML
