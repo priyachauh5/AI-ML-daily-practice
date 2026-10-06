@@ -1,6 +1,6 @@
 # Python Programming
 
-A collaborative repository for the **AI/ML Programming Language**, created to organize programming resources, practice problems, assignments, projects, and learning materials in one place.
+A collaborative repository for the **AI/ML Programming Language**, created to organize programming resources, practice problems and learning materials in one place.
 
 ## 🎯 Objectives
 
