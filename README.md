@@ -40,7 +40,7 @@ git checkout -b feature/your-feature-name
 
 ### 4. Make Your Changes
 
-Add your solutions, assignments, notes, or other relevant resources.
+Add your solutions, assignments, notes, or other relevant resources and roadmap.
 
 ### 5. Commit Your Changes
 
