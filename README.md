@@ -91,7 +91,7 @@ The repository can be used to practice:
 * Programming Fundamentals
 * Problem Solving
 * Git & GitHub
-* Python for AI/ML
+* Python programming for AI/ML
 * Machine Learning Fundamentals
 * Data Processing
 * AI/ML Projects
